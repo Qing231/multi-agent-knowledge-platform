@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/deepseek-rag-knowledge-base.iml" filepath="$PROJECT_DIR$/.idea/deepseek-rag-knowledge-base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bootstrap/bootstrap.iml" filepath="$PROJECT_DIR$/bootstrap/bootstrap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/framework/framework.iml" filepath="$PROJECT_DIR$/framework/framework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/infra-ai/infra-ai.iml" filepath="$PROJECT_DIR$/infra-ai/infra-ai.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mcp-server/mcp-server.iml" filepath="$PROJECT_DIR$/mcp-server/mcp-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ragent.iml" filepath="$PROJECT_DIR$/ragent.iml" />
     </modules>
   </component>
 </project>
